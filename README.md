@@ -13,3 +13,4 @@ A full-stack blog platform where users can:
 
 Built with React, Node.js, Express, and MongoDB 🚀
 
+VIDEO link :: https://drive.google.com/file/d/13O_qRsWYbvdHIVoyRhwyuvhJt9YfgNPZ/view?usp=drive_link
